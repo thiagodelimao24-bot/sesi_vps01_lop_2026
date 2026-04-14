@@ -43,4 +43,4 @@ void main(){
     getch();
 }
 ```
-|[Fluxograma](./triagem.png)
+![Fluxograma](./triagem.png)

@@ -18,7 +18,7 @@ Arquivos gerados durante a avaliação de Lógica de programação, algoritmos e
 - 3 Pressione F11 para compliar executar
 
 ## Exemplo de codígo
-´´´c
+```c
 #include<stdio.h>
 #include<windows.h>
 void main(){

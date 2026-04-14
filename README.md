@@ -43,3 +43,4 @@ void main(){
     getch();
 }
 ```
+|[Fluxograma](./triagem.png).

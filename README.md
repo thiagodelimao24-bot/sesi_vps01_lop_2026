@@ -1,3 +1,4 @@
+
 #Titulo: VPS01
 ## Verificação Pratíca Somativa 01
 Arquivos gerados durante a avaliação de Lógica de programação, algoritmos e fluxogramas
@@ -16,7 +17,7 @@ Arquivos gerados durante a avaliação de Lógica de programação, algoritmos e
 - 2 Abra os arquivos .c como DevC++
 - 3 Pressione F11 para compliar executar
 
-##Exemplo de codígo
+## Exemplo de codígo
 ´´´c
 #include<stdio.h>
 #include<windows.h>
